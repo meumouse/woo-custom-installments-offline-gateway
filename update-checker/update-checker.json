@@ -3,7 +3,7 @@
 	"slug" : "woo-custom-installments-offline-gateway",
 	"author" : "<a href='https://meumouse.com'>MeuMouse.com</a>",
 	"author_profile" : "http://profiles.wordpress.org/meumouse",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"download_url" : "https://github.com/meumouse/woo-custom-installments-offline-gateway/raw/main/dist/woo-custom-installments-offline-gateway.zip",
 	"requires" : "5.6",
 	"tested" : "6.2",
