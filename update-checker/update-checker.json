@@ -1,21 +1,44 @@
 {
-	"name" : "Parcelas Customizadas para WooCommerce - Gateway de pagamento offline",
-	"slug" : "woo-custom-installments-offline-gateway",
-	"author" : "<a href='https://meumouse.com'>MeuMouse.com</a>",
-	"author_profile" : "http://profiles.wordpress.org/meumouse",
-	"version" : "1.0.1",
-	"download_url" : "https://github.com/meumouse/woo-custom-installments-offline-gateway/raw/main/dist/woo-custom-installments-offline-gateway.zip",
-	"requires" : "5.6",
-	"tested" : "6.2",
-	"requires_php" : "7.2",
-	"last_updated" : "2023-08-18 11:10:00",
-	"sections" : {
-		"description" : "Complemento do plugin Parcelas Customizadas para WooCommerce, que permite adicionar uma nova forma de pagamento offline no WooCommerce, para usuários selecionarem parcelas na finalização de compra.",
-		"installation" : "Click the activate button and that's it.",
-		"changelog" : "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+	"name": "Parcelas Customizadas para WooCommerce - Gateway de pagamento offline",
+	"version": "1.0.0",
+	"download_url": "https://github.com/meumouse/woo-custom-installments-offline-gateway/raw/main/dist/woo-custom-installments-offline-gateway.zip",
+	"homepage": "https://meumouse.com/",
+	"requires": "5.0",
+	"tested": "6.2",
+	"last_updated": "2023-08-18 11:17:00",
+	"upgrade_notice": "Here's why you should upgrade...",
+	"author": "MeuMouse.com",
+	"author_homepage": "https://meumouse.com/",
+
+	"sections": {
+		"description": "(Required) Plugin description. Basic HTML can be used in all sections.",
+		"installation": "(Recommended) Installation instructions.",
+		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>",
+		"custom_section": "This is a custom section labeled 'Custom Section'."
 	},
-	"banners" : {
-		"low" : "https://rudrastyh.com/wp-content/uploads/updater/banner-772x250.jpg",
-		"high" : "https://rudrastyh.com/wp-content/uploads/updater/banner-1544x500.jpg"
-	}
+	
+	"icons" : {
+		"1x" : "http://w-shadow.com/files/external-update-example/assets/icon-128x128.png",
+		"2x" : "http://w-shadow.com/files/external-update-example/assets/icon-256x256.png"
+    },
+
+	"banners": {
+		"low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
+		"high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+	},
+
+	"translations": [
+		{
+			"language": "fr_FR",
+			"version": "4.0",
+			"updated": "2016-04-22 23:22:42",
+			"package": "http://example.com/updates/translations/french-language-pack.zip"
+		}
+	],
+
+	"rating": 0,
+	"num_ratings": 0,
+
+	"downloaded": 0,
+	"active_installs": 0
 }
