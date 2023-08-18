@@ -1,6 +1,6 @@
 {
 	"name": "Parcelas Customizadas para WooCommerce - Gateway de pagamento offline",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"download_url": "https://github.com/meumouse/woo-custom-installments-offline-gateway/raw/main/dist/woo-custom-installments-offline-gateway.zip",
 	"homepage": "https://meumouse.com/",
 	"requires": "5.0",
